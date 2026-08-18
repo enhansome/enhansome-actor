@@ -26,7 +26,7 @@
           "repo_info": {
             "archived": false,
             "language": "Scala",
-            "last_commit": "2026-08-12T08:38:37Z",
+            "last_commit": "2026-08-17T04:19:10Z",
             "owner": "akka",
             "repo": "akka-core",
             "stars": 13276
@@ -40,10 +40,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-16T16:22:27Z",
+            "last_commit": "2026-08-18T00:18:55Z",
             "owner": "dotnet",
             "repo": "orleans",
-            "stars": 10835
+            "stars": 10834
           }
         },
         {
@@ -57,7 +57,7 @@
             "last_commit": "2026-08-01T23:29:53Z",
             "owner": "actix",
             "repo": "actix",
-            "stars": 9239
+            "stars": 9240
           }
         },
         {
@@ -85,7 +85,7 @@
             "last_commit": "2024-01-21T07:18:32Z",
             "owner": "puniverse",
             "repo": "quasar",
-            "stars": 4552
+            "stars": 4551
           }
         },
         {
@@ -96,7 +96,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-12T20:34:44Z",
+            "last_commit": "2026-08-17T17:44:52Z",
             "owner": "actor-framework",
             "repo": "actor-framework",
             "stars": 3431
@@ -211,7 +211,7 @@
             "last_commit": "2026-05-18T19:28:57Z",
             "owner": "basiliscos",
             "repo": "cpp-rotor",
-            "stars": 390
+            "stars": 391
           }
         },
         {
@@ -258,7 +258,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T03:57:40.989Z",
+    "last_updated": "2026-08-18T03:53:44.724Z",
     "original_repository": "GetTech-io/awesome-actor",
     "original_repository_sha": "5d72866f689332e9f790abef19e77d8c3bbff5ea",
     "enhanced_repository": "enhansome/enhansome-actor",
