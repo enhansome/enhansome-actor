@@ -40,10 +40,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-18T00:18:55Z",
+            "last_commit": "2026-08-19T03:45:22Z",
             "owner": "dotnet",
             "repo": "orleans",
-            "stars": 10834
+            "stars": 10835
           }
         },
         {
@@ -57,7 +57,7 @@
             "last_commit": "2026-08-01T23:29:53Z",
             "owner": "actix",
             "repo": "actix",
-            "stars": 9240
+            "stars": 9239
           }
         },
         {
@@ -152,7 +152,7 @@
           "repo_info": {
             "archived": false,
             "language": "SCSS",
-            "last_commit": "2026-08-12T19:03:02Z",
+            "last_commit": "2026-08-18T18:53:15Z",
             "owner": "dapr",
             "repo": "docs",
             "stars": 1015
@@ -222,7 +222,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-07-15T19:01:09Z",
+            "last_commit": "2026-08-18T12:46:57Z",
             "owner": "microsoft",
             "repo": "service-fabric-dotnet",
             "stars": 277
@@ -258,7 +258,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T03:53:44.724Z",
+    "last_updated": "2026-08-19T03:54:45.533Z",
     "original_repository": "GetTech-io/awesome-actor",
     "original_repository_sha": "5d72866f689332e9f790abef19e77d8c3bbff5ea",
     "enhanced_repository": "enhansome/enhansome-actor",
