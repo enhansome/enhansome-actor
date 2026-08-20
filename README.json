@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 130013,
                 "language": "Scala",
-                "last_commit": "2026-08-19T12:00:05Z",
+                "last_commit": "2026-08-19T13:23:35Z",
                 "owner": "akka",
                 "repo": "akka-core",
-                "stars": 13276
+                "stars": 13277
               }
             },
             {
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 28232663,
                 "language": "C#",
-                "last_commit": "2026-08-19T05:59:49Z",
+                "last_commit": "2026-08-20T02:35:47Z",
                 "owner": "dotnet",
                 "repo": "orleans",
-                "stars": 10836
+                "stars": 10837
               }
             },
             {
@@ -89,7 +89,7 @@
                 "archived": false,
                 "id": 1439738,
                 "language": "C++",
-                "last_commit": "2026-08-19T09:15:35Z",
+                "last_commit": "2026-08-19T15:55:22Z",
                 "owner": "actor-framework",
                 "repo": "actor-framework",
                 "stars": 3431
@@ -240,7 +240,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:13:24.542Z",
+    "last_updated": "2026-08-20T03:54:40.465Z",
     "original_repository": "GetTech-io/awesome-actor",
     "original_repository_id": 220085945,
     "original_repository_sha": "5d72866f689332e9f790abef19e77d8c3bbff5ea",
