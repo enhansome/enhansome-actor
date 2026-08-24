@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 130013,
                 "language": "Scala",
-                "last_commit": "2026-08-21T15:58:19Z",
+                "last_commit": "2026-08-24T11:23:34Z",
                 "owner": "akka",
                 "repo": "akka-core",
                 "stars": 13276
@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-01T23:29:53Z",
                 "owner": "actix",
                 "repo": "actix",
-                "stars": 9242
+                "stars": 9243
               }
             },
             {
@@ -89,7 +89,7 @@
                 "archived": false,
                 "id": 1439738,
                 "language": "C++",
-                "last_commit": "2026-08-23T16:46:02Z",
+                "last_commit": "2026-08-24T14:19:56Z",
                 "owner": "actor-framework",
                 "repo": "actor-framework",
                 "stars": 3431
@@ -240,7 +240,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T04:01:43.450Z",
+    "last_updated": "2026-08-24T14:42:37.227Z",
     "original_repository": "GetTech-io/awesome-actor",
     "original_repository_id": 220085945,
     "original_repository_sha": "5d72866f689332e9f790abef19e77d8c3bbff5ea",
