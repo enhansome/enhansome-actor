@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 28232663,
                 "language": "C#",
-                "last_commit": "2026-08-24T00:40:27Z",
+                "last_commit": "2026-08-25T02:26:07Z",
                 "owner": "dotnet",
                 "repo": "orleans",
                 "stars": 10843
@@ -182,7 +182,7 @@
                 "last_commit": "2026-08-15T10:57:05Z",
                 "owner": "Stiffstream",
                 "repo": "sobjectizer",
-                "stars": 621
+                "stars": 622
               }
             },
             {
@@ -240,7 +240,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:42:37.227Z",
+    "last_updated": "2026-08-25T03:55:13.882Z",
     "original_repository": "GetTech-io/awesome-actor",
     "original_repository_id": 220085945,
     "original_repository_sha": "5d72866f689332e9f790abef19e77d8c3bbff5ea",
