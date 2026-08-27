@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-27T03:35:53Z",
                 "owner": "dotnet",
                 "repo": "orleans",
-                "stars": 10846
+                "stars": 10847
               }
             },
             {
@@ -59,7 +59,7 @@
                 "archived": false,
                 "id": 15509440,
                 "language": "C#",
-                "last_commit": "2026-08-27T11:13:52Z",
+                "last_commit": "2026-08-27T13:53:21Z",
                 "owner": "akkadotnet",
                 "repo": "akka.net",
                 "stars": 5081
@@ -240,7 +240,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:18:12.935Z",
+    "last_updated": "2026-08-27T14:05:04.539Z",
     "original_repository_info": {
       "archived": false,
       "id": 220085945,

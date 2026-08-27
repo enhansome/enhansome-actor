@@ -2,7 +2,7 @@
 
 This is an awesome list of actor model resources.
 
-Inspired by [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,357 | 🐛 105 | 📅 2026-08-21, [awesome-dotnet](https://github.com/quozd/awesome-dotnet) ⭐ 21,578 | 🐛 139 | 📅 2026-03-26, [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core) ⭐ 21,370 | 🐛 212 | 🌐 C# | 📅 2026-02-27.
+Inspired by [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,402 | 🐛 105 | 📅 2026-08-21, [awesome-dotnet](https://github.com/quozd/awesome-dotnet) ⭐ 21,578 | 🐛 139 | 📅 2026-03-26, [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core) ⭐ 21,371 | 🐛 212 | 🌐 C# | 📅 2026-02-27.
 
 Contributions are always welcome!
 
@@ -41,9 +41,9 @@ Say hi on twitter to [HerbaPeter](https://twitter.com/HerbaPeter) or [GetTechio]
 ### Application Frameworks
 
 * [Akka](https://github.com/akka/akka) ⭐ 13,276 | 🐛 901 | 🌐 Scala | 📅 2026-08-26 - Build highly concurrent, distributed, and resilient message-driven applications on the JVM [akka.io](https://akka.io)
-* [Microsoft Orleans](https://github.com/dotnet/orleans) ⭐ 10,846 | 🐛 652 | 🌐 C# | 📅 2026-08-27 - Orleans is a cross-platform framework for building robust, scalable distributed applications
+* [Microsoft Orleans](https://github.com/dotnet/orleans) ⭐ 10,847 | 🐛 652 | 🌐 C# | 📅 2026-08-27 - Orleans is a cross-platform framework for building robust, scalable distributed applications
 * [Actix](https://github.com/actix/actix) ⭐ 9,243 | 🐛 36 | 🌐 Rust | 📅 2026-08-01 - Actor framework for Rust
-* [Akka.Net](https://github.com/akkadotnet/akka.net) ⭐ 5,081 | 🐛 445 | 🌐 C# | 📅 2026-08-27 - Akka.NET is a professional-grade port of the popular Java/Scala framework Akka distributed actor framework to .NET. [getakka.net](https://getakka.net/)
+* [Akka.Net](https://github.com/akkadotnet/akka.net) ⭐ 5,081 | 🐛 444 | 🌐 C# | 📅 2026-08-27 - Akka.NET is a professional-grade port of the popular Java/Scala framework Akka distributed actor framework to .NET. [getakka.net](https://getakka.net/)
 * [Quasar](https://github.com/puniverse/quasar) ⭐ 4,551 | 🐛 101 | 🌐 Java | 📅 2024-01-21 - Fibers, Channels and Actors for the JVM. [docs](http://docs.paralleluniverse.co/quasar/)
 * [CAF: C++ Actor Framework](https://github.com/actor-framework/actor-framework) ⭐ 3,432 | 🐛 58 | 🌐 C++ | 📅 2026-08-26 - CAF is an open source C++11 actor model implementation featuring lightweight & fast actor implementations, pattern matching for messages, network transparent messaging, and more.
 * [Orbit](https://github.com/orbit/orbit) ⭐ 1,726 | 🐛 4 | 🌐 Kotlin | 📅 2021-06-15 - Distributed systems framework for the JVM by @electronicarts. [www.orbit.cloud](http://www.orbit.cloud)
