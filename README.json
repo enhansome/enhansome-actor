@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 130013,
                 "language": "Scala",
-                "last_commit": "2026-08-25T15:39:20Z",
+                "last_commit": "2026-08-26T08:25:47Z",
                 "owner": "akka",
                 "repo": "akka-core",
-                "stars": 13275
+                "stars": 13276
               }
             },
             {
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 28232663,
                 "language": "C#",
-                "last_commit": "2026-08-26T03:52:42Z",
+                "last_commit": "2026-08-27T03:35:53Z",
                 "owner": "dotnet",
                 "repo": "orleans",
-                "stars": 10844
+                "stars": 10846
               }
             },
             {
@@ -59,10 +59,10 @@
                 "archived": false,
                 "id": 15509440,
                 "language": "C#",
-                "last_commit": "2026-08-26T03:20:52Z",
+                "last_commit": "2026-08-27T11:13:52Z",
                 "owner": "akkadotnet",
                 "repo": "akka.net",
-                "stars": 5079
+                "stars": 5081
               }
             },
             {
@@ -89,10 +89,10 @@
                 "archived": false,
                 "id": 1439738,
                 "language": "C++",
-                "last_commit": "2026-08-25T17:13:49Z",
+                "last_commit": "2026-08-26T08:24:38Z",
                 "owner": "actor-framework",
                 "repo": "actor-framework",
-                "stars": 3431
+                "stars": 3432
               }
             },
             {
@@ -107,7 +107,7 @@
                 "last_commit": "2021-06-15T14:48:30Z",
                 "owner": "orbit",
                 "repo": "orbit",
-                "stars": 1725
+                "stars": 1726
               }
             },
             {
@@ -182,7 +182,7 @@
                 "last_commit": "2026-08-15T10:57:05Z",
                 "owner": "Stiffstream",
                 "repo": "sobjectizer",
-                "stars": 622
+                "stars": 623
               }
             },
             {
@@ -240,9 +240,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T03:59:31.389Z",
-    "original_repository": "GetTech-io/awesome-actor",
-    "original_repository_id": 220085945,
+    "last_updated": "2026-08-27T11:18:12.935Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 220085945,
+      "language": null,
+      "last_commit": "2023-07-06T18:59:29Z",
+      "owner": "GetTech-io",
+      "repo": "awesome-actor",
+      "stars": 85
+    },
     "original_repository_sha": "5d72866f689332e9f790abef19e77d8c3bbff5ea",
     "enhanced_repository": "enhansome/enhansome-actor",
     "enhanced_repository_description": null,
