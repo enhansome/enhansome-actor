@@ -12,12 +12,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.",
+                "homepage": "https://doc.akka.io/libraries/",
                 "id": 130013,
                 "language": "Scala",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-26T08:25:47Z",
+                "open_issues": 901,
                 "owner": "akka",
                 "repo": "akka-core",
-                "stars": 13276
+                "stars": 13276,
+                "topics": [
+                  "actor-model",
+                  "akka",
+                  "cloud-native",
+                  "concurrency",
+                  "distributed-actors",
+                  "distributed-systems",
+                  "high-performance",
+                  "reactive",
+                  "streaming"
+                ]
               },
               "first_seen": "2026-08-28T15:16:07.720Z"
             },
@@ -28,12 +43,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cloud Native application framework for .NET",
+                "homepage": "https://dotnet.github.io/orleans/",
                 "id": 28232663,
                 "language": "C#",
-                "last_commit": "2026-08-28T13:45:06Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T23:01:45Z",
+                "open_issues": 677,
                 "owner": "dotnet",
                 "repo": "orleans",
-                "stars": 10851
+                "stars": 10851,
+                "topics": [
+                  "actor-model",
+                  "actors",
+                  "cloud-computing",
+                  "cloud-native",
+                  "concurrency",
+                  "distributed-actors",
+                  "distributed-systems",
+                  "dotnet",
+                  "orleans"
+                ]
               },
               "first_seen": "2026-08-28T15:16:07.720Z"
             },
@@ -44,12 +74,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Actor framework for Rust.",
+                "homepage": null,
                 "id": 103894697,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-01T23:29:53Z",
+                "open_issues": 36,
                 "owner": "actix",
                 "repo": "actix",
-                "stars": 9242
+                "stars": 9242,
+                "topics": [
+                  "actix",
+                  "actor",
+                  "actor-model",
+                  "concurrency",
+                  "hacktoberfest",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T15:16:07.720Z"
             },
@@ -60,12 +102,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Canonical actor model implementation for .NET with local + distributed actors in C# and F#.",
+                "homepage": "http://getakka.net",
                 "id": 15509440,
                 "language": "C#",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T11:45:49Z",
+                "open_issues": 448,
                 "owner": "akkadotnet",
                 "repo": "akka.net",
-                "stars": 5081
+                "stars": 5081,
+                "topics": [
+                  "actor",
+                  "actor-model",
+                  "akka",
+                  "akkadotnet",
+                  "c-sharp",
+                  "cluster",
+                  "concurrency",
+                  "distributed-programming",
+                  "dotnet",
+                  "reactive"
+                ]
               },
               "first_seen": "2026-08-28T15:16:07.720Z"
             },
@@ -76,12 +134,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fibers, Channels and Actors for the JVM",
+                "homepage": "http://docs.paralleluniverse.co/quasar/",
                 "id": 9056142,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2024-01-21T07:18:32Z",
+                "open_issues": 101,
                 "owner": "puniverse",
                 "repo": "quasar",
-                "stars": 4551
+                "stars": 4551,
+                "topics": [
+                  "actors",
+                  "concurrency",
+                  "fibers",
+                  "java",
+                  "jvm"
+                ]
               },
               "first_seen": "2026-08-28T15:16:07.720Z"
             },
@@ -92,12 +161,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Open Source Implementation of the Actor Model in C++",
+                "homepage": "http://actor-framework.org/",
                 "id": 1439738,
                 "language": "C++",
-                "last_commit": "2026-08-28T10:49:31Z",
+                "license": "BSD-3-Clause",
+                "last_commit": "2026-08-28T19:01:17Z",
+                "open_issues": 58,
                 "owner": "actor-framework",
                 "repo": "actor-framework",
-                "stars": 3432
+                "stars": 3432,
+                "topics": [
+                  "actor-model",
+                  "actors",
+                  "async",
+                  "caf",
+                  "pattern-matching"
+                ]
               },
               "first_seen": "2026-08-28T15:16:07.720Z"
             },
@@ -108,12 +188,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Orbit - Virtual actor framework for building distributed systems",
+                "homepage": null,
                 "id": 32951609,
                 "language": "Kotlin",
+                "license": "BSD-3-Clause",
                 "last_commit": "2021-06-15T14:48:30Z",
+                "open_issues": 4,
                 "owner": "orbit",
                 "repo": "orbit",
-                "stars": 1726
+                "stars": 1726,
+                "topics": [
+                  "actor-model",
+                  "actors",
+                  "distributed-actors",
+                  "distributed-systems",
+                  "grains",
+                  "java",
+                  "jvm",
+                  "kotlin",
+                  "orbit",
+                  "reactive",
+                  "virtual-actors"
+                ]
               },
               "first_seen": "2026-08-28T15:16:07.720Z"
             },
@@ -124,12 +221,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🌀 Pykka makes it easier to build concurrent Python applications.",
+                "homepage": "https://pykka.readthedocs.io",
                 "id": 1079822,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-15T22:10:49Z",
+                "open_issues": 16,
                 "owner": "jodal",
                 "repo": "pykka",
-                "stars": 1335
+                "stars": 1335,
+                "topics": [
+                  "actor-model",
+                  "concurrency",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T15:16:07.720Z"
             },
@@ -140,12 +246,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Easily build efficient, highly concurrent and resilient applications. An Actor Framework for Rust.",
+                "homepage": "https://riker.rs",
                 "id": 140157605,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2024-01-20T14:47:47Z",
+                "open_issues": 45,
                 "owner": "riker-rs",
                 "repo": "riker",
-                "stars": 1070
+                "stars": 1071,
+                "topics": [
+                  "actor-model",
+                  "actors",
+                  "async",
+                  "cqrs",
+                  "event-sourcing",
+                  "resilient"
+                ]
               },
               "first_seen": "2026-08-28T15:16:07.720Z"
             },
@@ -156,12 +274,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dapr user documentation, used to build docs.dapr.io",
+                "homepage": "https://docs.dapr.io",
                 "id": 209614512,
                 "language": "SCSS",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-18T18:53:15Z",
+                "open_issues": 162,
                 "owner": "dapr",
                 "repo": "docs",
-                "stars": 1015
+                "stars": 1015,
+                "topics": [
+                  "cloud-native",
+                  "cncf",
+                  "dapr",
+                  "docs",
+                  "microservices"
+                ]
               },
               "first_seen": "2026-08-28T15:16:07.720Z"
             },
@@ -172,12 +301,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Node.js actor framework.",
+                "homepage": null,
                 "id": 69839538,
                 "language": "JavaScript",
+                "license": "EPL-1.0",
                 "last_commit": "2025-09-06T08:41:28Z",
+                "open_issues": 28,
                 "owner": "untu",
                 "repo": "comedy",
-                "stars": 668
+                "stars": 668,
+                "topics": [
+                  "actors",
+                  "framework",
+                  "nodejs",
+                  "nodejs-framework",
+                  "scalability"
+                ]
               },
               "first_seen": "2026-08-28T15:16:07.720Z"
             },
@@ -188,12 +328,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An implementation of Actor, Publish-Subscribe, and CSP models in one rather small C++ framework. With performance, quality, and stability proved by years in the production.",
+                "homepage": "https://stiffstream.com/en/products/sobjectizer.html",
                 "id": 186988663,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-15T10:57:05Z",
+                "open_issues": 13,
                 "owner": "Stiffstream",
                 "repo": "sobjectizer",
-                "stars": 625
+                "stars": 625,
+                "topics": [
+                  "actor",
+                  "actor-framework",
+                  "actor-library",
+                  "actor-model",
+                  "actors",
+                  "agents",
+                  "communicating-sequential-processes",
+                  "concurrency",
+                  "concurrent-programming",
+                  "cplusplus",
+                  "cplusplus-17",
+                  "cpp",
+                  "csp",
+                  "message-passing",
+                  "multithreading",
+                  "publish-subscribe",
+                  "pubsub",
+                  "sobjectizer",
+                  "thread"
+                ]
               },
               "first_seen": "2026-08-28T15:16:07.720Z"
             },
@@ -204,12 +369,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Functional API for Microsoft Orleans http://orleanscontrib.github.io/Orleankka",
+                "homepage": null,
                 "id": 29269234,
                 "language": "C#",
+                "license": "Apache-2.0",
                 "last_commit": "2025-12-15T21:25:35Z",
+                "open_issues": 3,
                 "owner": "OrleansContrib",
                 "repo": "Orleankka",
-                "stars": 507
+                "stars": 507,
+                "topics": [
+                  "actors",
+                  "cqrs",
+                  "event-sourcing",
+                  "fsm",
+                  "functional",
+                  "orleans"
+                ]
               },
               "first_seen": "2026-08-28T15:16:07.720Z"
             },
@@ -220,12 +397,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Event loop friendly C++ actor micro-framework, supervisable",
+                "homepage": null,
                 "id": 195520752,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-05-18T19:28:57Z",
+                "open_issues": 2,
                 "owner": "basiliscos",
                 "repo": "cpp-rotor",
-                "stars": 391
+                "stars": 391,
+                "topics": [
+                  "actor",
+                  "actor-framework",
+                  "asio",
+                  "boost",
+                  "cpp17",
+                  "event-loops"
+                ]
               },
               "first_seen": "2026-08-28T15:16:07.720Z"
             },
@@ -236,12 +425,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Service Fabric .NET Libraries",
+                "homepage": null,
                 "id": 83844142,
                 "language": "C#",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-18T12:46:57Z",
+                "open_issues": 51,
                 "owner": "microsoft",
                 "repo": "service-fabric-dotnet",
-                "stars": 277
+                "stars": 277,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:16:07.720Z"
             }
@@ -255,15 +449,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T15:16:07.720Z",
+    "last_updated": "2026-08-29T04:59:16.295Z",
     "original_repository_info": {
       "archived": false,
+      "description": ":punch: Awesome lists of actor model resources",
+      "homepage": null,
       "id": 220085945,
       "language": null,
+      "license": null,
       "last_commit": "2023-07-06T18:59:29Z",
+      "open_issues": 1,
       "owner": "GetTech-io",
       "repo": "awesome-actor",
-      "stars": 85
+      "stars": 85,
+      "topics": [
+        "actor",
+        "actor-framework",
+        "actor-model",
+        "awesome",
+        "awesome-list",
+        "virtual-actors"
+      ]
     },
     "original_repository_sha": "5d72866f689332e9f790abef19e77d8c3bbff5ea",
     "enhanced_repository": "enhansome/enhansome-actor",
