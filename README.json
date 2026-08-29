@@ -49,7 +49,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-08-28T23:01:45Z",
-                "open_issues": 677,
+                "open_issues": 678,
                 "owner": "dotnet",
                 "repo": "orleans",
                 "stars": 10851,
@@ -449,7 +449,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:59:16.295Z",
+    "last_updated": "2026-08-29T09:58:31.575Z",
     "original_repository_info": {
       "archived": false,
       "description": ":punch: Awesome lists of actor model resources",
