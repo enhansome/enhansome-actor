@@ -48,11 +48,11 @@
                 "id": 28232663,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-08-30T16:17:07Z",
-                "open_issues": 685,
+                "last_commit": "2026-08-31T16:22:34Z",
+                "open_issues": 681,
                 "owner": "dotnet",
                 "repo": "orleans",
-                "stars": 10854,
+                "stars": 10855,
                 "topics": [
                   "actor-model",
                   "actors",
@@ -79,8 +79,8 @@
                 "id": 103894697,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-01T23:29:53Z",
-                "open_issues": 36,
+                "last_commit": "2026-09-01T03:26:27Z",
+                "open_issues": 40,
                 "owner": "actix",
                 "repo": "actix",
                 "stars": 9242,
@@ -111,7 +111,7 @@
                 "open_issues": 446,
                 "owner": "akkadotnet",
                 "repo": "akka.net",
-                "stars": 5082,
+                "stars": 5080,
                 "topics": [
                   "actor",
                   "actor-model",
@@ -170,7 +170,7 @@
                 "open_issues": 58,
                 "owner": "actor-framework",
                 "repo": "actor-framework",
-                "stars": 3433,
+                "stars": 3434,
                 "topics": [
                   "actor-model",
                   "actors",
@@ -197,7 +197,7 @@
                 "open_issues": 4,
                 "owner": "orbit",
                 "repo": "orbit",
-                "stars": 1727,
+                "stars": 1728,
                 "topics": [
                   "actor-model",
                   "actors",
@@ -449,7 +449,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T09:38:08.310Z",
+    "last_updated": "2026-09-01T08:33:56.329Z",
     "original_repository_info": {
       "archived": false,
       "description": ":punch: Awesome lists of actor model resources",
