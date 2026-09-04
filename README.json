@@ -17,11 +17,11 @@
                 "id": 130013,
                 "language": "Scala",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-03T07:05:52Z",
-                "open_issues": 900,
+                "last_commit": "2026-09-03T14:12:10Z",
+                "open_issues": 902,
                 "owner": "akka",
                 "repo": "akka-core",
-                "stars": 13278,
+                "stars": 13279,
                 "topics": [
                   "actor-model",
                   "akka",
@@ -48,11 +48,11 @@
                 "id": 28232663,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-03T06:28:55Z",
-                "open_issues": 713,
+                "last_commit": "2026-09-03T22:53:54Z",
+                "open_issues": 720,
                 "owner": "dotnet",
                 "repo": "orleans",
-                "stars": 10856,
+                "stars": 10857,
                 "topics": [
                   "actor-model",
                   "actors",
@@ -83,7 +83,7 @@
                 "open_issues": 40,
                 "owner": "actix",
                 "repo": "actix",
-                "stars": 9242,
+                "stars": 9241,
                 "topics": [
                   "actix",
                   "actor",
@@ -230,7 +230,7 @@
                 "open_issues": 16,
                 "owner": "jodal",
                 "repo": "pykka",
-                "stars": 1335,
+                "stars": 1336,
                 "topics": [
                   "actor-model",
                   "concurrency",
@@ -255,7 +255,7 @@
                 "open_issues": 45,
                 "owner": "riker-rs",
                 "repo": "riker",
-                "stars": 1072,
+                "stars": 1073,
                 "topics": [
                   "actor-model",
                   "actors",
@@ -280,7 +280,7 @@
                 "language": "SCSS",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-01T19:30:40Z",
-                "open_issues": 163,
+                "open_issues": 165,
                 "owner": "dapr",
                 "repo": "docs",
                 "stars": 1015,
@@ -449,7 +449,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T07:58:44.144Z",
+    "last_updated": "2026-09-04T07:55:05.754Z",
     "original_repository_info": {
       "archived": false,
       "description": ":punch: Awesome lists of actor model resources",
