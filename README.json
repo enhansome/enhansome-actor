@@ -48,11 +48,11 @@
                 "id": 28232663,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-05T06:06:02Z",
-                "open_issues": 676,
+                "last_commit": "2026-09-06T05:37:45Z",
+                "open_issues": 662,
                 "owner": "dotnet",
                 "repo": "orleans",
-                "stars": 10859,
+                "stars": 10860,
                 "topics": [
                   "actor-model",
                   "actors",
@@ -107,8 +107,8 @@
                 "id": 15509440,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-05T00:52:08Z",
-                "open_issues": 444,
+                "last_commit": "2026-09-05T18:53:07Z",
+                "open_issues": 443,
                 "owner": "akkadotnet",
                 "repo": "akka.net",
                 "stars": 5081,
@@ -280,7 +280,7 @@
                 "language": "SCSS",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-01T19:30:40Z",
-                "open_issues": 165,
+                "open_issues": 166,
                 "owner": "dapr",
                 "repo": "docs",
                 "stars": 1015,
@@ -337,7 +337,7 @@
                 "open_issues": 13,
                 "owner": "Stiffstream",
                 "repo": "sobjectizer",
-                "stars": 625,
+                "stars": 626,
                 "topics": [
                   "actor",
                   "actor-framework",
@@ -449,7 +449,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T07:36:09.145Z",
+    "last_updated": "2026-09-06T07:50:43.346Z",
     "original_repository_info": {
       "archived": false,
       "description": ":punch: Awesome lists of actor model resources",
