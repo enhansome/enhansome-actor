@@ -48,11 +48,11 @@
                 "id": 28232663,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-11T21:05:44Z",
-                "open_issues": 637,
+                "last_commit": "2026-09-12T16:27:09Z",
+                "open_issues": 633,
                 "owner": "dotnet",
                 "repo": "orleans",
-                "stars": 10861,
+                "stars": 10860,
                 "topics": [
                   "actor-model",
                   "actors",
@@ -83,7 +83,7 @@
                 "open_issues": 39,
                 "owner": "actix",
                 "repo": "actix",
-                "stars": 9239,
+                "stars": 9241,
                 "topics": [
                   "actix",
                   "actor",
@@ -107,8 +107,8 @@
                 "id": 15509440,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-12T02:23:12Z",
-                "open_issues": 449,
+                "last_commit": "2026-09-12T19:16:10Z",
+                "open_issues": 450,
                 "owner": "akkadotnet",
                 "repo": "akka.net",
                 "stars": 5082,
@@ -197,7 +197,7 @@
                 "open_issues": 4,
                 "owner": "orbit",
                 "repo": "orbit",
-                "stars": 1728,
+                "stars": 1729,
                 "topics": [
                   "actor-model",
                   "actors",
@@ -280,7 +280,7 @@
                 "language": "SCSS",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-11T15:55:32Z",
-                "open_issues": 170,
+                "open_issues": 172,
                 "owner": "dapr",
                 "repo": "docs",
                 "stars": 1015,
@@ -378,7 +378,7 @@
                 "open_issues": 3,
                 "owner": "OrleansContrib",
                 "repo": "Orleankka",
-                "stars": 507,
+                "stars": 506,
                 "topics": [
                   "actors",
                   "cqrs",
@@ -449,7 +449,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T07:51:34.031Z",
+    "last_updated": "2026-09-13T08:14:08.966Z",
     "original_repository_info": {
       "archived": false,
       "description": ":punch: Awesome lists of actor model resources",
