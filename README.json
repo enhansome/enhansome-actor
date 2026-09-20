@@ -48,11 +48,11 @@
                 "id": 28232663,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-18T23:57:46Z",
-                "open_issues": 611,
+                "last_commit": "2026-09-19T22:11:53Z",
+                "open_issues": 609,
                 "owner": "dotnet",
                 "repo": "orleans",
-                "stars": 10866,
+                "stars": 10868,
                 "topics": [
                   "actor-model",
                   "actors",
@@ -167,10 +167,10 @@
                 "language": "C++",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-09-11T12:35:13Z",
-                "open_issues": 59,
+                "open_issues": 60,
                 "owner": "actor-framework",
                 "repo": "actor-framework",
-                "stars": 3439,
+                "stars": 3438,
                 "topics": [
                   "actor-model",
                   "actors",
@@ -449,7 +449,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T07:58:45.282Z",
+    "last_updated": "2026-09-20T08:30:22.916Z",
     "original_repository_info": {
       "archived": false,
       "description": ":punch: Awesome lists of actor model resources",
