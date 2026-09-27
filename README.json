@@ -48,11 +48,11 @@
                 "id": 28232663,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-25T16:26:16Z",
-                "open_issues": 608,
+                "last_commit": "2026-09-26T16:22:26Z",
+                "open_issues": 610,
                 "owner": "dotnet",
                 "repo": "orleans",
-                "stars": 10869,
+                "stars": 10870,
                 "topics": [
                   "actor-model",
                   "actors",
@@ -83,7 +83,7 @@
                 "open_issues": 35,
                 "owner": "actix",
                 "repo": "actix",
-                "stars": 9248,
+                "stars": 9249,
                 "topics": [
                   "actix",
                   "actor",
@@ -170,7 +170,7 @@
                 "open_issues": 59,
                 "owner": "actor-framework",
                 "repo": "actor-framework",
-                "stars": 3439,
+                "stars": 3440,
                 "topics": [
                   "actor-model",
                   "actors",
@@ -226,7 +226,7 @@
                 "id": 1079822,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-26T01:03:41Z",
+                "last_commit": "2026-09-26T09:17:29Z",
                 "open_issues": 16,
                 "owner": "jodal",
                 "repo": "pykka",
@@ -279,8 +279,8 @@
                 "id": 209614512,
                 "language": "SCSS",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-25T11:15:43Z",
-                "open_issues": 166,
+                "last_commit": "2026-09-26T11:58:14Z",
+                "open_issues": 165,
                 "owner": "dapr",
                 "repo": "docs",
                 "stars": 1015,
@@ -449,7 +449,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T08:30:49.187Z",
+    "last_updated": "2026-09-27T09:10:01.195Z",
     "original_repository_info": {
       "archived": false,
       "description": ":punch: Awesome lists of actor model resources",
