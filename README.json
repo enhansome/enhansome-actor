@@ -49,7 +49,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-10-02T23:29:29Z",
-                "open_issues": 622,
+                "open_issues": 625,
                 "owner": "dotnet",
                 "repo": "orleans",
                 "stars": 10888,
@@ -83,7 +83,7 @@
                 "open_issues": 35,
                 "owner": "actix",
                 "repo": "actix",
-                "stars": 9250,
+                "stars": 9251,
                 "topics": [
                   "actix",
                   "actor",
@@ -166,7 +166,7 @@
                 "id": 1439738,
                 "language": "C++",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-02T13:15:21Z",
+                "last_commit": "2026-10-03T08:31:48Z",
                 "open_issues": 58,
                 "owner": "actor-framework",
                 "repo": "actor-framework",
@@ -279,8 +279,8 @@
                 "id": 209614512,
                 "language": "SCSS",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T16:34:05Z",
-                "open_issues": 164,
+                "last_commit": "2026-10-03T08:16:48Z",
+                "open_issues": 160,
                 "owner": "dapr",
                 "repo": "docs",
                 "stars": 1015,
@@ -449,7 +449,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:21:51.294Z",
+    "last_updated": "2026-10-03T09:03:41.350Z",
     "original_repository_info": {
       "archived": false,
       "description": ":punch: Awesome lists of actor model resources",
