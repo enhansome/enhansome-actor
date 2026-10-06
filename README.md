@@ -2,7 +2,7 @@
 
 This is an awesome list of actor model resources.
 
-Inspired by [awesome](https://github.com/sindresorhus/awesome) ⭐ 515,350 | 🐛 106 | 📅 2026-09-02, [awesome-dotnet](https://github.com/quozd/awesome-dotnet) ⭐ 21,642 | 🐛 168 | 📅 2026-03-26, [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core) ⭐ 21,399 | 🐛 219 | 🌐 C# | 📅 2026-02-27.
+Inspired by [awesome](https://github.com/sindresorhus/awesome) ⭐ 515,353 | 🐛 106 | 📅 2026-09-02, [awesome-dotnet](https://github.com/quozd/awesome-dotnet) ⭐ 21,642 | 🐛 169 | 📅 2026-03-26, [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core) ⭐ 21,399 | 🐛 222 | 🌐 C# | 📅 2026-02-27.
 
 Contributions are always welcome!
 
