@@ -21,7 +21,7 @@
                 "open_issues": 902,
                 "owner": "akka",
                 "repo": "akka-core",
-                "stars": 13280,
+                "stars": 13279,
                 "topics": [
                   "actor-model",
                   "akka",
@@ -48,11 +48,11 @@
                 "id": 28232663,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-09T19:47:39Z",
-                "open_issues": 610,
+                "last_commit": "2026-10-11T01:10:50Z",
+                "open_issues": 618,
                 "owner": "dotnet",
                 "repo": "orleans",
-                "stars": 10897,
+                "stars": 10899,
                 "topics": [
                   "actor-model",
                   "actors",
@@ -80,7 +80,7 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-08T06:45:29Z",
-                "open_issues": 35,
+                "open_issues": 34,
                 "owner": "actix",
                 "repo": "actix",
                 "stars": 9253,
@@ -143,7 +143,7 @@
                 "open_issues": 101,
                 "owner": "puniverse",
                 "repo": "quasar",
-                "stars": 4550,
+                "stars": 4549,
                 "topics": [
                   "actors",
                   "concurrency",
@@ -170,7 +170,7 @@
                 "open_issues": 61,
                 "owner": "actor-framework",
                 "repo": "actor-framework",
-                "stars": 3442,
+                "stars": 3443,
                 "topics": [
                   "actor-model",
                   "actors",
@@ -226,11 +226,11 @@
                 "id": 1079822,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-03T11:20:22Z",
-                "open_issues": 13,
+                "last_commit": "2026-10-10T22:32:17Z",
+                "open_issues": 14,
                 "owner": "jodal",
                 "repo": "pykka",
-                "stars": 1339,
+                "stars": 1338,
                 "topics": [
                   "actor-model",
                   "concurrency",
@@ -283,7 +283,7 @@
                 "open_issues": 176,
                 "owner": "dapr",
                 "repo": "docs",
-                "stars": 1017,
+                "stars": 1016,
                 "topics": [
                   "cloud-native",
                   "cncf",
@@ -449,7 +449,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T09:43:36.363Z",
+    "last_updated": "2026-10-11T09:54:33.858Z",
     "original_repository_info": {
       "archived": false,
       "description": ":punch: Awesome lists of actor model resources",
