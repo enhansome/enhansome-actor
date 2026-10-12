@@ -17,8 +17,8 @@
                 "id": 130013,
                 "language": "Scala",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-09T14:31:55Z",
-                "open_issues": 902,
+                "last_commit": "2026-10-12T07:22:15Z",
+                "open_issues": 900,
                 "owner": "akka",
                 "repo": "akka-core",
                 "stars": 13279,
@@ -48,11 +48,11 @@
                 "id": 28232663,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-11T01:10:50Z",
-                "open_issues": 618,
+                "last_commit": "2026-10-11T20:24:00Z",
+                "open_issues": 612,
                 "owner": "dotnet",
                 "repo": "orleans",
-                "stars": 10899,
+                "stars": 10902,
                 "topics": [
                   "actor-model",
                   "actors",
@@ -83,7 +83,7 @@
                 "open_issues": 34,
                 "owner": "actix",
                 "repo": "actix",
-                "stars": 9253,
+                "stars": 9254,
                 "topics": [
                   "actix",
                   "actor",
@@ -230,7 +230,7 @@
                 "open_issues": 14,
                 "owner": "jodal",
                 "repo": "pykka",
-                "stars": 1338,
+                "stars": 1337,
                 "topics": [
                   "actor-model",
                   "concurrency",
@@ -279,7 +279,7 @@
                 "id": 209614512,
                 "language": "SCSS",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-09T22:15:02Z",
+                "last_commit": "2026-10-12T09:55:36Z",
                 "open_issues": 176,
                 "owner": "dapr",
                 "repo": "docs",
@@ -449,7 +449,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T09:54:33.858Z",
+    "last_updated": "2026-10-12T10:38:32.732Z",
     "original_repository_info": {
       "archived": false,
       "description": ":punch: Awesome lists of actor model resources",
