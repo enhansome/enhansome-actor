@@ -21,7 +21,7 @@
                 "open_issues": 901,
                 "owner": "akka",
                 "repo": "akka-core",
-                "stars": 13281,
+                "stars": 13280,
                 "topics": [
                   "actor-model",
                   "akka",
@@ -48,8 +48,8 @@
                 "id": 28232663,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-17T16:23:36Z",
-                "open_issues": 636,
+                "last_commit": "2026-10-18T16:17:32Z",
+                "open_issues": 641,
                 "owner": "dotnet",
                 "repo": "orleans",
                 "stars": 10904,
@@ -166,7 +166,7 @@
                 "id": 1439738,
                 "language": "C++",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-17T16:22:03Z",
+                "last_commit": "2026-10-18T17:25:15Z",
                 "open_issues": 61,
                 "owner": "actor-framework",
                 "repo": "actor-framework",
@@ -279,8 +279,8 @@
                 "id": 209614512,
                 "language": "SCSS",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-16T15:24:08Z",
-                "open_issues": 161,
+                "last_commit": "2026-10-19T08:02:51Z",
+                "open_issues": 163,
                 "owner": "dapr",
                 "repo": "docs",
                 "stars": 1018,
@@ -449,7 +449,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T07:57:24.350Z",
+    "last_updated": "2026-10-19T08:44:42.388Z",
     "original_repository_info": {
       "archived": false,
       "description": ":punch: Awesome lists of actor model resources",
