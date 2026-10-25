@@ -21,7 +21,7 @@
                 "open_issues": 901,
                 "owner": "akka",
                 "repo": "akka-core",
-                "stars": 13280,
+                "stars": 13281,
                 "topics": [
                   "actor-model",
                   "akka",
@@ -48,11 +48,11 @@
                 "id": 28232663,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-23T18:47:56Z",
-                "open_issues": 646,
+                "last_commit": "2026-10-24T16:17:04Z",
+                "open_issues": 649,
                 "owner": "dotnet",
                 "repo": "orleans",
-                "stars": 10913,
+                "stars": 10915,
                 "topics": [
                   "actor-model",
                   "actors",
@@ -83,7 +83,7 @@
                 "open_issues": 34,
                 "owner": "actix",
                 "repo": "actix",
-                "stars": 9256,
+                "stars": 9257,
                 "topics": [
                   "actix",
                   "actor",
@@ -143,7 +143,7 @@
                 "open_issues": 101,
                 "owner": "puniverse",
                 "repo": "quasar",
-                "stars": 4547,
+                "stars": 4544,
                 "topics": [
                   "actors",
                   "concurrency",
@@ -230,7 +230,7 @@
                 "open_issues": 14,
                 "owner": "jodal",
                 "repo": "pykka",
-                "stars": 1337,
+                "stars": 1338,
                 "topics": [
                   "actor-model",
                   "concurrency",
@@ -449,7 +449,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T08:02:24.871Z",
+    "last_updated": "2026-10-25T08:19:17.632Z",
     "original_repository_info": {
       "archived": false,
       "description": ":punch: Awesome lists of actor model resources",
