@@ -2,7 +2,7 @@
 
 This is an awesome list of actor model resources.
 
-Inspired by [awesome](https://github.com/sindresorhus/awesome) ⭐ 525,344 | 🐛 105 | 📅 2026-09-02, [awesome-dotnet](https://github.com/quozd/awesome-dotnet) ⭐ 21,679 | 🐛 205 | 📅 2026-03-26, [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core) ⭐ 21,436 | 🐛 225 | 🌐 C# | 📅 2026-02-27.
+Inspired by [awesome](https://github.com/sindresorhus/awesome) ⭐ 525,961 | 🐛 105 | 📅 2026-09-02, [awesome-dotnet](https://github.com/quozd/awesome-dotnet) ⭐ 21,684 | 🐛 206 | 📅 2026-03-26, [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core) ⭐ 21,436 | 🐛 225 | 🌐 C# | 📅 2026-02-27.
 
 Contributions are always welcome!
 
@@ -41,20 +41,20 @@ Say hi on twitter to [HerbaPeter](https://twitter.com/HerbaPeter) or [GetTechio]
 ### Application Frameworks
 
 * [Akka](https://github.com/akka/akka) ⭐ 13,281 | 🐛 901 | 🌐 Scala | 📅 2026-10-16 - Build highly concurrent, distributed, and resilient message-driven applications on the JVM [akka.io](https://akka.io)
-* [Microsoft Orleans](https://github.com/dotnet/orleans) ⭐ 10,917 | 🐛 653 | 🌐 C# | 📅 2026-10-27 - Orleans is a cross-platform framework for building robust, scalable distributed applications
+* [Microsoft Orleans](https://github.com/dotnet/orleans) ⭐ 10,918 | 🐛 657 | 🌐 C# | 📅 2026-10-27 - Orleans is a cross-platform framework for building robust, scalable distributed applications
 * [Actix](https://github.com/actix/actix) ⭐ 9,259 | 🐛 34 | 🌐 Rust | 📅 2026-10-08 - Actor framework for Rust
-* [Akka.Net](https://github.com/akkadotnet/akka.net) ⭐ 5,090 | 🐛 462 | 🌐 C# | 📅 2026-10-27 - Akka.NET is a professional-grade port of the popular Java/Scala framework Akka distributed actor framework to .NET. [getakka.net](https://getakka.net/)
+* [Akka.Net](https://github.com/akkadotnet/akka.net) ⭐ 5,091 | 🐛 456 | 🌐 C# | 📅 2026-10-28 - Akka.NET is a professional-grade port of the popular Java/Scala framework Akka distributed actor framework to .NET. [getakka.net](https://getakka.net/)
 * [Quasar](https://github.com/puniverse/quasar) ⭐ 4,544 | 🐛 101 | 🌐 Java | 📅 2024-01-21 - Fibers, Channels and Actors for the JVM. [docs](http://docs.paralleluniverse.co/quasar/)
-* [CAF: C++ Actor Framework](https://github.com/actor-framework/actor-framework) ⭐ 3,442 | 🐛 62 | 🌐 C++ | 📅 2026-10-26 - CAF is an open source C++11 actor model implementation featuring lightweight & fast actor implementations, pattern matching for messages, network transparent messaging, and more.
+* [CAF: C++ Actor Framework](https://github.com/actor-framework/actor-framework) ⭐ 3,442 | 🐛 61 | 🌐 C++ | 📅 2026-10-28 - CAF is an open source C++11 actor model implementation featuring lightweight & fast actor implementations, pattern matching for messages, network transparent messaging, and more.
 * [Orbit](https://github.com/orbit/orbit) ⭐ 1,729 | 🐛 4 | 🌐 Kotlin | 📅 2021-06-15 - Distributed systems framework for the JVM by @electronicarts. [www.orbit.cloud](http://www.orbit.cloud)
 * [Pykka](https://github.com/jodal/pykka) ⭐ 1,338 | 🐛 14 | 🌐 Python | 📅 2026-10-10 - Pykka is a Python implementation of the actor model, which makes it easier to build concurrent applications [www.pykka.org](https://www.pykka.org)
-* [Riker](https://github.com/riker-rs/riker/) ⭐ 1,073 | 🐛 45 | 🌐 Rust | 📅 2024-01-20 - Easily build efficient, highly concurrent and resilient applications. An Actor Framework for Rust. [riker.rs](https://riker.rs)
-* [Microsoft Dapr Actors](https://github.com/dapr/docs/blob/master/concepts/actor/actor_overview.md) ⭐ 1,016 | 🐛 152 | 🌐 SCSS | 📅 2026-10-25 - Dapr runtime provides an actor implementation which is based on Virtual Actor pattern. The Dapr actors API provides a single-threaded programming model leveraging the scalability and reliability guarantees provided by underlying platform on which Dapr is running. [Dapr](https://github.com/dapr/dapr) ⭐ 26,157 | 🐛 442 | 🌐 Go | 📅 2026-10-27
+* [Riker](https://github.com/riker-rs/riker/) ⭐ 1,072 | 🐛 45 | 🌐 Rust | 📅 2024-01-20 - Easily build efficient, highly concurrent and resilient applications. An Actor Framework for Rust. [riker.rs](https://riker.rs)
+* [Microsoft Dapr Actors](https://github.com/dapr/docs/blob/master/concepts/actor/actor_overview.md) ⭐ 1,016 | 🐛 152 | 🌐 SCSS | 📅 2026-10-25 - Dapr runtime provides an actor implementation which is based on Virtual Actor pattern. The Dapr actors API provides a single-threaded programming model leveraging the scalability and reliability guarantees provided by underlying platform on which Dapr is running. [Dapr](https://github.com/dapr/dapr) ⭐ 26,164 | 🐛 448 | 🌐 Go | 📅 2026-10-28
 * [Comedy](https://github.com/untu/comedy) ⭐ 668 | 🐛 28 | 🌐 JavaScript | 📅 2025-09-06 - Node.js actor framework.
-* [SObjectizer](https://github.com/Stiffstream/sobjectizer) ⭐ 628 | 🐛 13 | 🌐 C++ | 📅 2026-10-27 - SObjectizer is one of a few cross-platform and OpenSource "actor frameworks" for C++. But SObjectizer supports not only Actor Model, but also Publish-Subscribe Model and CSP-like channels. The goal of SObjectizer is significant simplification of development of concurrent and multithreaded applications in C++.
+* [SObjectizer](https://github.com/Stiffstream/sobjectizer) ⭐ 628 | 🐛 14 | 🌐 C++ | 📅 2026-10-28 - SObjectizer is one of a few cross-platform and OpenSource "actor frameworks" for C++. But SObjectizer supports not only Actor Model, but also Publish-Subscribe Model and CSP-like channels. The goal of SObjectizer is significant simplification of development of concurrent and multithreaded applications in C++.
 * [Orleankka](https://github.com/OrleansContrib/Orleankka) ⭐ 506 | 🐛 3 | 🌐 C# | 📅 2025-12-15 - Orleankka is a functional extension for Microsoft Orleans framework. It provides a message-based API similar to Akka/ProtoActor, carefully layered on top of the Orleans (that's what in a name). Orleankka is an excellent choice for use-cases which can benefit from composable, uniform communication interface, such as CQRS, event-sourcing, FSM, etc.
 * [Rotor](https://github.com/basiliscos/cpp-rotor) ⭐ 394 | 🐛 2 | 🌐 C++ | 📅 2026-05-18 - Event loop friendly C++ actor micro-framework
-* [Microsoft Service Fabric Reliable Actors](https://github.com/microsoft/service-fabric-services-and-actors-dotnet) ⭐ 276 | 🐛 52 | 🌐 C# | 📅 2026-10-26 - Reliable Actors is a Service Fabric application framework based on the Virtual Actor pattern. The Reliable Actors API provides a single-threaded programming model built on the scalability and reliability guarantees provided by Service Fabric. [Docs](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-reliable-actors-introduction), [Service Fabric](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-reliable-actors-introduction)
+* [Microsoft Service Fabric Reliable Actors](https://github.com/microsoft/service-fabric-services-and-actors-dotnet) ⭐ 276 | 🐛 52 | 🌐 C# | 📅 2026-10-28 - Reliable Actors is a Service Fabric application framework based on the Virtual Actor pattern. The Reliable Actors API provides a single-threaded programming model built on the scalability and reliability guarantees provided by Service Fabric. [Docs](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-reliable-actors-introduction), [Service Fabric](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-reliable-actors-introduction)
 * [ProtoActor](https://github.com/AsynkronIT) - Ultra fast distributed actors for Go, C# and Java/Kotlin [proto.actor](http://proto.actor)
 * [Tarant](https://github.com/tarantx) - Fullstack composable actor system for Typescript/Javascript implementing an extensible framework that allows to focus in domain logic and delegate the rest to the platform.
 
@@ -97,4 +97,4 @@ Say hi on twitter to [HerbaPeter](https://twitter.com/HerbaPeter) or [GetTechio]
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
