@@ -21,7 +21,7 @@
                 "open_issues": 903,
                 "owner": "akka",
                 "repo": "akka-core",
-                "stars": 13283,
+                "stars": 13282,
                 "topics": [
                   "actor-model",
                   "akka",
@@ -48,7 +48,7 @@
                 "id": 28232663,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-02T04:56:38Z",
+                "last_commit": "2026-11-02T20:51:18Z",
                 "open_issues": 664,
                 "owner": "dotnet",
                 "repo": "orleans",
@@ -107,11 +107,11 @@
                 "id": 15509440,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-28T11:25:33Z",
-                "open_issues": 460,
+                "last_commit": "2026-11-03T05:21:45Z",
+                "open_issues": 461,
                 "owner": "akkadotnet",
                 "repo": "akka.net",
-                "stars": 5096,
+                "stars": 5098,
                 "topics": [
                   "actor",
                   "actor-model",
@@ -170,7 +170,7 @@
                 "open_issues": 66,
                 "owner": "actor-framework",
                 "repo": "actor-framework",
-                "stars": 3443,
+                "stars": 3442,
                 "topics": [
                   "actor-model",
                   "actors",
@@ -280,7 +280,7 @@
                 "language": "JavaScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-31T18:32:43Z",
-                "open_issues": 159,
+                "open_issues": 161,
                 "owner": "dapr",
                 "repo": "docs",
                 "stars": 1016,
@@ -333,7 +333,7 @@
                 "id": 186988663,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-01T09:15:29Z",
+                "last_commit": "2026-11-02T13:47:23Z",
                 "open_issues": 14,
                 "owner": "Stiffstream",
                 "repo": "sobjectizer",
@@ -449,7 +449,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T10:54:11.102Z",
+    "last_updated": "2026-11-03T10:44:08.972Z",
     "original_repository_info": {
       "archived": false,
       "description": ":punch: Awesome lists of actor model resources",
